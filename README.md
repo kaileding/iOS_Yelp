@@ -45,7 +45,9 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/kaileding/iOS_Yelp/blob/master/demo1.gif' title='business view operations' width='' alt='Video Walkthrough' />
+<img src='https://github.com/kaileding/iOS_Yelp/blob/master/demo2.gif' title='filter setting operations' width='' alt='Video Walkthrough' />
+<img src='https://github.com/kaileding/iOS_Yelp/blob/master/demo3.gif' title='filter on map operations' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
