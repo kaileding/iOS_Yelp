@@ -251,7 +251,7 @@ class FiltersViewController: UITableViewController, SwitchCellDelegate {
         switch section {
         case 1:
             headerView.textLabel?.text = "Distance"
-            headerView.textLabel?.textColor = UIColor.red
+            headerView.textLabel?.textColor = UIColor.black
             headerView.textLabel?.font = UIFont(name: "System Regular", size: 10.0)
         case 2:
             headerView.textLabel?.text = "Sort By"
@@ -273,7 +273,7 @@ class FiltersViewController: UITableViewController, SwitchCellDelegate {
         switch section {
         case 1:
             header.textLabel?.text = "Distance"
-            header.textLabel?.textColor = UIColor.red
+            header.textLabel?.textColor = UIColor.black
             header.textLabel?.font = UIFont(name: "System Regular", size: 10.0)
         case 2:
             header.textLabel?.text = "Sort By"
